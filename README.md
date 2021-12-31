@@ -263,7 +263,7 @@ Include this in your Module-level build.gradle file:
 ### Groovy
 
 ```groovy
-implementation 'com.github.AbedElazizShe:LightCompressor:1.0.1'
+implementation 'com.github.nomi9995:LightCompressor:1.0.1'
 ```
 
 ## Getting help
